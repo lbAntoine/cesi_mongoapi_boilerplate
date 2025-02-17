@@ -1,0 +1,8 @@
+server:
+  port: 
+  mode: # debug or release
+
+mongodb:
+  uri: ""
+  database: ""
+  timeout: # seconds
